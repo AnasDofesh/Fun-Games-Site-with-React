@@ -1,0 +1,14 @@
+.section-wrapper{
+    background-color: #1f2122;
+    border-radius: 25px;
+    padding: 30px;
+    margin-top: 50px;
+    /* temorary */
+    color: beige;
+}
+
+.most-popular-items{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
